@@ -1,3 +1,4 @@
+# Primeiramente você deverá criar um token OAuth para conseguir se autenticar com a API da Twitch
 # Link para autenticação:
 # https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=owa12694zio5ifwd22vnfv3udkj00g&redirect_uri=https://auth.roddydev.com/register_oauth&scope=channel%3Aread%3Aredemptions+channel%3Amanage%3Aredemptions
 
