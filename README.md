@@ -15,3 +15,7 @@ Esse é o servidor local para usar com o plugin de LiveSplit para automaticament
 1. Ter mais controle de configurações tanto no servidor quanto no plugin de LiveSplit
 2. Dominar completamente como funciona o asyncio e C#
 3. Criar uma GUI para fazer do aplicativo um executável ao invés de algo que precise ser executado em um console.
+
+
+# Contribuir
+Você poderá criar sua fork e editar o script como quiser. Só não é permitido criar uma fork closed-source desse repositório.
