@@ -11,6 +11,6 @@ Esse é o servidor local para usar com o plugin de LiveSplit para automaticament
 7. Rode o arquivo `start.bat` daqui em diante. Isso irá criar um servidor para que consiga conectar o LiveSplit.
 
 # Planos
-1. Ter mais controle de configurações tanto no servidor quando no plugin de LiveSplit
+1. Ter mais controle de configurações tanto no servidor quanto no plugin de LiveSplit
 2. Dominar completamente como funciona o asyncio e C#
 3. Criar uma GUI para fazer do aplicativo um executável ao invés de algo que precise ser executado em um console.
